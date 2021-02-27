@@ -1,2 +1,2 @@
-# EnhancedForLoop
-Enhanced for loop to traverse over array in Java.
+# Enhanced For Loop
+        Enhanced for loop to traverse over array in Java.
